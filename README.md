@@ -1,9 +1,12 @@
 # OneClickUSIS
 A simple web scraping app that checks if seats are available for selected courses on USIS
 
+I recommend downloading the .ipynb file and running it in [Google Colab](https://colab.research.google.com/).
+
 First create a .txt file and name it "course_input.txt".
 
 Type the course and the intended section with a space between them. Each course should should be in a new line.
+
 Separate the desired section numbers by spaces. Leave blank to search for all sections.
 
 Sample:
